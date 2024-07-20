@@ -1,0 +1,1 @@
+This program will generate a QR code. First we will install all the necessary libraries. Then create a function that would collect text and converts it into a QR code. Lastly, the QR code wil be saved as an image.

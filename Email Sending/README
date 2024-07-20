@@ -1,0 +1,7 @@
+This program is all about sending an email to somebody through Python programming language.
+
+Things to consider before running or alter this program:
+
+- Make sure you turn on 2-factor authentication for the sender account.
+- For email_password, generate an app password through Google App Passwords and do not share it with anybody for security purpose as this can give full access to your Google account.
+- I would suggest you not to directly store your password in main file. Instead create a variable in another Python file and store your password there, then import that variable into main app file.
