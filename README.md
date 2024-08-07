@@ -1,1 +1,1 @@
-#Python Mini Projects for Practice
+Python Mini Projects for Practice
