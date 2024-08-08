@@ -1,1 +1,1 @@
-Python Mini Projects for Practice
+The repo consists of quite a few mini projects of Python programming language.
